@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nich-ikech.github.io/nich-ikech/sitemap.xml
+Sitemap: https://nich-ikech.github.io/nicholas/sitemap.xml
