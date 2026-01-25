@@ -27,8 +27,8 @@
       "institution": "Boston University",
       "location": "Boston, MA, USA",
       "url": "https://www.bu.edu/",
-      "area": "CS, Computer Vison & Machine Learning",
-      "studyType": "PhD",
+      "area": "Dept. of Computer Science",
+      "studyType": "PhD in Computer Vison & Machine Learning",
       "startDate": "2024-09-01",
       "endDate": "-",
       "score": "10",
@@ -40,12 +40,12 @@
       "institution": "Michael Okpara University",
       "location": "Umudike, Nigeria",
       "url": "https://mouau.edu.ng/",
-      "area": "Computer Engineering",
+      "area": "Dept. of Computer Engineering",
       "studyType": "Bachelor of Engineering",
       "startDate": "2016-09-01",
       "endDate": "2021-12-30",
       "score": "10",
-      "courses": ["Artificial Intelligence", "Software Engineering", "Data Structures & Algorithms", 
+      "courses": ["Artificial Intelligence", "Robotics", "Software Engineering", "Data Structures & Algorithms", 
       "Networking", "Digital Systems Design", "Linear Algebra",  "Statistics for Science and Engineering"
 
       ]
@@ -59,7 +59,7 @@
       "startDate": "2025-01-01",
       "endDate": "-",
       "summary": "Teaching at CS Laboratory, Conducting Office Hours, Grading",
-      "highlights": ["Artificial Intelligence, Machine Learning, Reinforcement Learning"]
+      "highlights": ["Artificial Intelligence", "Machine Learning", "Reinforcement Learning"]
     },
     {
       "name": "Tech1M recruitment intelligence platform ",
