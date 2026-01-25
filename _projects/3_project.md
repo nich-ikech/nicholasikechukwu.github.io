@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Royal Presgtige Rewards
+description: comprehensive tools for using and maintaining their cookware, including recipe videos
+img: assets/img/royal_prestige.png
+# redirect: https://www.royalprestige.com/
 importance: 3
 category: work
 ---

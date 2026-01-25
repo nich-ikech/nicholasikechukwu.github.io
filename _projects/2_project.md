@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Reyatt Recovery
+description: With the Reyatt Recovery App, you can manage your vehicle logistics in one place. Vehicle logistics on the go using your mobile device
+img: assets/img/reyatt_recovery.png
 importance: 2
 category: work
 giscus_comments: true

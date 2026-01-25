@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Tech1M SaaS
-description: with background image
-img: assets/img/12.jpg
-redirect: https://unsplash.com
+title: Tech1M
+description: Recruitment intelligence platform leveraging AI and data analytics to simplify global talent acquisition
+img: assets/img/tech1m.jpg
+redirect: http://www.tech1m.com
 importance: 1
 category: work
 related_publications: true

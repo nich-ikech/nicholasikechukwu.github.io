@@ -162,9 +162,9 @@ collections:
       layout: post
     output: true
   projects:
-    output: false
+    output: false #Nick
   teachings:
-    output: true
+    output: false #Nick
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
