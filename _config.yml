@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: #Nicholas Ikechukwu # the website title (if blank, full name will be used instead)
+title: Nicholas Ikechukwu # the website title (if blank, full name will be used instead)
 first_name: Nicholas
 middle_name: C.
 last_name: Ikechukwu
@@ -281,8 +281,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Ikechukwu]
+  first_name: [Nicholas, C.]
 
   style: apa
   locale: en
