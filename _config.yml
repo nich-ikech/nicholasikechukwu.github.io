@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Nicholas Ikechukwu # the website title (if blank, full name will be used instead)
+title: #Nicholas Ikechukwu # the website title (if blank, full name will be used instead)
 first_name: Nicholas
 middle_name: C.
 last_name: Ikechukwu
@@ -159,12 +159,11 @@ collections:
   books:
     output: true
   news:
-    title: News
     defaults:
       layout: post
     output: true
   projects:
-    output: true
+    output: false
   teachings:
     output: true
 
