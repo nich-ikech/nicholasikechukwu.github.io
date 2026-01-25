@@ -2,13 +2,13 @@
 layout: post
 title: Presented my first talk at the AIR Seminar at BU!
 date: 2026-01-20 14:00:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 Event: AIR Seminar
 
 ---
-Venue: CDS, Boston University
+Venue: Duan Family Center for Computing & Data Sciences, Boston University, Boston, MA
 
 Title: Divergence under Overlap Shifts: Stability–Plasticity Drift in Query-Based VTs for Continual Panoptic Segmentation
 
