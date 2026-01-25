@@ -2,7 +2,7 @@
 layout: post
 title: Presented my first talk at the AIR Seminar at BU :)
 date: 2026-01-20 14:00:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 Event: AIR Seminar
