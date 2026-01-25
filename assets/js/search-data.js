@@ -436,15 +436,13 @@ ninja.data = [{
             },},{id: "news-co-authored-my-second-paper-read-online-here-arxiv",
           title: 'Co-authored my second paper! Read (online) here: ArXiv:',
           description: "",
-          section: "News",},{id: "news-completed-two-semesters-as-an-ai-course-teaching-fellow-for-cs440",
-          title: 'Completed two semesters as an AI Course Teaching fellow for CS440',
+          section: "News",},{id: "news-completed-two-semesters-as-a-teaching-fellow-for-cs440-ai-course",
+          title: 'Completed two semesters as a Teaching Fellow for CS440 (AI Course)',
           description: "",
-          section: "News",},{id: "news-presented-my-first-talk-at-the-air-seminar-at-bu",
-          title: 'Presented my first talk at the AIR Seminar at BU :)',
+          section: "News",},{id: "news-event-air-seminar-venue-cds-boston-university-title-divergence-under-overlap-shifts-stability-plasticity-drift-in-query-based-vts-for-continual-panoptic-segmentation",
+          title: 'Event: AIR Seminar Venue: CDS, Boston University Title: Divergence under Overlap Shifts: Stability–Plasticity...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
