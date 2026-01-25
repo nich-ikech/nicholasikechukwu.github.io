@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Completed two semesters as an AI Course Teaching fellow for CS440
+Completed two semesters as a Teaching Fellow for CS440 (AI Course)
 
 ---
 <!-- 
