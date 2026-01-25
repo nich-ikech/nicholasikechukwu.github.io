@@ -159,6 +159,7 @@ collections:
   books:
     output: true
   news:
+    title: News
     defaults:
       layout: post
     output: true
