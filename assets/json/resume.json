@@ -126,16 +126,16 @@
   ],
   "skills": [
     {
-      "name": "Computer Vision and Machine Learning",
+      "name": "AI & ML Engineering",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Perception",
-        "Vison Transformers",
-        "Query-based Segmentation",
-        "Continual Learning",
-        "Panoptic Segmentation",
-        "Reinforcement learning"
+        "Pytorch",
+        "Python",
+        "Java",
+        "Typescript",
+        "React",
+        "Detectron"
       ]
     }
   ],
@@ -153,15 +153,15 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Computer Vision, Machine Learning, and Robotics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Visual Perception",
+        "Query-based Vison Models",
+        "Continual Panoptic Segmentation",
+        "Robot Learning",
+        "Robotic Vision"
       ]
     }
   ],
