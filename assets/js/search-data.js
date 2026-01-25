@@ -109,11 +109,11 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/nicholas_ikechukwu_cv.pdf", "_blank");
+          window.open("https://scholar.google.com/citations?user=tv53yh0AAAAJ", "_blank");
         },
       },{
         id: 'social-email',
@@ -121,6 +121,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6E%63%68%6F%6C%61%73@%62%75.%65%64%75", "_blank");
+        },
+      },{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/nicholas_ikechukwu_cv.pdf", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/nick-ikech", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -135,13 +149,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/Nick_Ikay", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=tv53yh0AAAAJ", "_blank");
         },
       },{
         id: 'social-custom_social',
