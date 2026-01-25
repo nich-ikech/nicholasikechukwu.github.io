@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.bu.edu/cs/about/people/'>Computer Vision & ML, </a>. CS, Boston University, Boston, MA. 
+subtitle: <a href='https://www.bu.edu/cs/about/people/'>IVC-ML (Comp. Vision & ML) Group,</a> CS, Boston University, Boston, MA. 
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Nicholas Ikechukwu is a PhD student in Computer Vision and Machine Learning at Boston University, co-advised by Profs. Bryan Plummer and Deepti Ghadiyaram. His research lies at the intersection of computer vision, machine learning, and robotics, with a focus on query-based vision models and long-term vision-based perception for autonomous systems. He holds a Bachelor of Engineering in Computer Engineering. Nicholas also serves as a Teaching Fellow, tutoring AI, Machine Learning, and Reinforcement Learning concepts.  Prior to his PhD, Nicholas gained industry experience where he worked on AI-driven systems across multiple applications.  
+Nicholas Ikechukwu is a PhD student in Computer Vision and Machine Learning at Boston University, co-advised by Profs. Bryan Plummer and Deepti Ghadiyaram. His research lies at the intersection of computer vision, machine learning, and robotics, with a focus on query-based vision models and long-term vision-based perception for autonomous systems. He holds a Bachelor of Engineering in Computer Engineering. Nicholas also serves as a Teaching Fellow at BU, tutoring AI, Machine Learning, and Reinforcement Learning concepts.  Prior to his PhD, Nicholas gained industry experience where he worked on AI-driven software across multiple applications.  
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `nick.jpg` and put it in the `img/` folder.
 
