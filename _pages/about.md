@@ -32,7 +32,7 @@ I am a CS PhD student at Boston University, where I have the rare good fortune o
 
 As a Teaching Fellow at BU, I also enjoy the rare privilege of talking about what I love, supporting and guiding students through AI, Machine Learning, and Reinforcement Learning while discovering that teaching often reveals insights research alone cannot. 
 
-Outside the lab and classroom, I unwind at the piano, experiment with delightfully unpolished art, explore the city by bike, and find clarity at the gym
+Outside the lab and classroom, I unwind at the piano, experiment with delightfully unpolished art, explore the city by bike, and find clarity at the gym.
 
 
 <!-- Nicholas Ikechukwu is a CS PhD student at Boston University, where he has the rare good fortune of being co-advised by Profs. Bryan Plummer and Deepti Ghadiyaram. My research interests have placed me squarely at the crossroads of Computer Vision, Machine Learning, and Robotics. This intersection defines both my research and curiosity. My research involves studing and working with query-based vision models and long-term visual perception for autonomous systems, motivated by a simple but ambitious question: how can machines learn not just to see (perceive), but to remember, adapt, and act over time? With my background in Computer Engineering via a Bachelor in Engineering, and prior industry experience building AI-driven systems across diverse applications, I love to bring a practical lens to theoretically grounded research. 

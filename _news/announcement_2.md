@@ -4,6 +4,7 @@ date: 2025-12-21 16:00:00-0400
 inline: true
 related_posts: false
 ---
+---
 
 Completed two semesters as a Teaching Fellow for CS440 (AI Course)
 

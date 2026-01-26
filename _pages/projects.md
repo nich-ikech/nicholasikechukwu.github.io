@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A collection of few of the projects that I have been involved in.
+description: A selection of industry projects showcasing my experience as a software engineer, where I worked on building and deploying real-world software systems across multiple domains
 nav: true #Nick
 nav_order: 4
-display_categories: [work] #Nick , fun]
+display_categories: [Work] #Nick , fun]
 horizontal: false
 ---
 

@@ -7,4 +7,3 @@ related_posts: false
 
 Co-authored my second paper! Read (online) here: <a href="https://arxiv.org/abs/2505.21649">ArXiv</a>:
 
----

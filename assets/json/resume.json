@@ -167,19 +167,19 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Bryan A. Plummer",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Assistant Professor in the Department of Computer Science at Boston University and a core faculty member of the Artificial Intelligence Research (AIR) initiative at the Rafik B. Hariri Institute for Computing and Computational Science & Engineering"
     },
     {
       "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "icon": "fa-solid fa-laptop",
+      "reference": "Assistant Professor at Boston University in the Department of Computer Science . I am also an Affiliated Faculty with the Department of Electrical and Computer Engineering and Faculty of Computing & Data Sciences and an academic collaborator with Runway."
     }
   ],
   "projects": [
     {
-      "name": "Tech1M recruitment intelligence platform ",
+      "name": "Tech1M Intelligent Recruitment Platform",
       "summary": "Tech1M is a recruitment intelligence platform leveraging AI and data analytics to simplify global talent acquisition with Human-AI Augmentation systems. With AI serving as a co-pilot for users and recruiters",
       "highlights": ["Artificial Intelligence", "Software as a Service", "Intelligent Recruitment"],
       "startDate": "2021-06-01",

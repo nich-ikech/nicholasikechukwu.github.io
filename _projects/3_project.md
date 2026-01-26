@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Royal Presgtige Rewards
-description: comprehensive tools for using and maintaining their cookware, including recipe videos
+description: Comprehensive tools for using and maintaining their cookware, including recipe videos
 img: assets/img/royal_prestige.png
 # redirect: https://www.royalprestige.com/
 importance: 3
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.
