@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "publications by categories in reversed chronological order.",
+          description: "Publications categorized by topic and ordered in reverse chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A collection of few of the projects that I have been involved in.",
+          description: "A selection of industry projects showcasing my experience as a software engineer, where I worked on building and deploying real-world software systems across multiple domains",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -65,7 +65,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-royal-presgtige-rewards",
           title: 'Royal Presgtige Rewards',
-          description: "comprehensive tools for using and maintaining their cookware, including recipe videos",
+          description: "Comprehensive tools for using and maintaining their cookware, including recipe videos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "teachings-data-science-fundamentals",
@@ -121,8 +121,8 @@ ninja.data = [{
           window.open("https://twitter.com/Nick_Ikay", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-BU CS Page',
+        title: 'Bu cs page',
         section: 'Socials',
         handler: () => {
           window.open("https://www.bu.edu/cs/profiles/nicholas-ikechukwu/", "_blank");
