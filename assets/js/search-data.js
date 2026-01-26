@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "My involvements as a Teaching assistant/fellow.",
+          description: "An overview of my teaching involvement as a Teaching Assistant and Teaching Fellow, focused on supporting learning and engagement in technical courses",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -63,16 +63,21 @@ ninja.data = [{
           description: "Comprehensive tools for using and maintaining their cookware, including recipe videos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+            },},{id: "teachings-artificial-intelligence",
+          title: 'Artificial Intelligence',
+          description: "Undergraduate Prerequisites (CASCS112 &amp; CASCS132) - Introduction to computer systems that exhibit intelligent behavior, in particular, perceptual and robotic systems. Topics include human computer interfaces, computer vision, robotics, game playing, pattern recognition, knowledge representation, planning.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+              window.location.href = "/teachings/intro_to_ai_fall_2025/";
+            },},{id: "teachings-artificial-intelligence",
+          title: 'Artificial Intelligence',
+          description: "Undergraduate Prerequisites (CASCS112 &amp; CASCS132) - Introduction to computer systems that exhibit intelligent behavior, in particular, perceptual and robotic systems. Topics include human computer interfaces, computer vision, robotics, game playing, pattern recognition, knowledge representation, planning.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/intro_to_ai_spring_2025/";
+            },},{id: "teachings-artificial-intelligence",
+          title: 'Artificial Intelligence',
+          description: "Undergraduate Prerequisites (CASCS112 &amp; CASCS132) - Introduction to computer systems that exhibit intelligent behavior, in particular, perceptual and robotic systems. Topics include human computer interfaces, computer vision, robotics, game playing, pattern recognition, knowledge representation, planning.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/intro_to_ai_spring_2026/";
             },},{
         id: 'social-scholar',
         title: 'Google Scholar',
