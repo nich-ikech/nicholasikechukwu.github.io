@@ -37,12 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-co-authored-my-second-paper-read-online-here-arxiv",
+        },{id: "news-co-authored-my-second-paper-read-online-here-arxiv",
           title: 'Co-authored my second paper! Read (online) here: ArXiv:',
           description: "",
           section: "News",},{id: "news-completed-two-semesters-as-a-teaching-fellow-for-cs440-ai-course",
