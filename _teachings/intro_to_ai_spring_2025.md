@@ -1,13 +1,13 @@
 ---
 layout: course
-title: Introduction to Machine Learning
-description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
-instructor: Prof. Example
-year: 2023
-term: Fall
-location: Main Campus, Room 301
+title: Artificial Intelligence
+description: Undergraduate Prerequisites (CASCS112 & CASCS132) - Introduction to computer systems that exhibit intelligent behavior, in particular, perceptual and robotic systems. Topics include human computer interfaces, computer vision, robotics, game playing, pattern recognition, knowledge representation, planning.
+instructor: Prof. Andrew Wood
+year: 2025
+term: Spring
+location: Charles River Campus
 time: Tuesdays and Thursdays, 10:00-11:30 AM
-course_id: intro-machine-learning
+course_id: CAS CS 440
 schedule:
   - week: 1
     date: Sept 5
