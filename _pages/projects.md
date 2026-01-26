@@ -3,9 +3,9 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A selection of industry projects showcasing my experience as a software engineer, where I worked on building and deploying real-world software systems across multiple domains
-nav: true #Nick
+nav: true 
 nav_order: 4
-display_categories: [Work] #Nick , fun]
+display_categories: [work] #Nick , fun]
 horizontal: false
 ---
 
@@ -15,7 +15,8 @@ horizontal: false
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
+  <!-- {{ category }} -->
+    <h2 class="category">Work</h2>
   </a>
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}

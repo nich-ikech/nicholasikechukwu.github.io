@@ -5,7 +5,7 @@ description: Comprehensive tools for using and maintaining their cookware, inclu
 img: assets/img/royal_prestige.png
 # redirect: https://www.royalprestige.com/
 importance: 3
-category: Work
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
