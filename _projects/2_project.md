@@ -3,6 +3,7 @@ layout: page
 title: Reyatt Recovery
 description: With the Reyatt Recovery App, you can manage your vehicle logistics in one place. Vehicle logistics on the go using your mobile device
 img: assets/img/reyatt_recovery.png
+redirect: https://reyattrecovery.com/
 importance: 2
 category: work
 giscus_comments: true
